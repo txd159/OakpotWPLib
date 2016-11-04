@@ -104,3 +104,7 @@ class PaginationMaker
 
 }
 
+/* TODO : 
+1.current class
+2.add A tag for current link
+*/
